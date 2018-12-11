@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "啃书吧",
+  "usingComponents": {
+    "search": "/conponents/search/search",
+    "penel" : "/conponents/penel/penel"
+  }
+}

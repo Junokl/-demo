@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/main/main",
+    "pages/more/more",
+    "pages/detail/detail"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#58bc58",
+    "navigationBarTitleText": "一杯清酒",
+    "enablePullDownRefresh": true,
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#ffffff",
+    "selectedColor": "#ffffff",
+    "borderStyle": "white",
+    "position": "top"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "./pages/imgs/main.png",
+        "selectedIconPath": "./pages/imgs/logs.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志",
+        "iconPath": "./pages/imgs/home.png",
+        "selectedIconPath": "./pages/imgs/ganga.png"
+      },
+      {
+        "pagePath": "pages/main/main",
+        "text": "信息",
+        "iconPath": "./pages/imgs/main.png",
+        "selectedIconPath": "./pages/imgs/lei.png"
+      },
+      {
+        "pagePath": "pages/main/main",
+        "text": "更多",
+        "iconPath": "./pages/imgs/lei.png",
+        "selectedIconPath": "./pages/imgs/main.png"
+      }
+    ]
+  }
+}
