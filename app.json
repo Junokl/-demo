@@ -38,7 +38,7 @@
         "selectedIconPath": "./pages/imgs/lei.png"
       },
       {
-        "pagePath": "pages/main/main",
+        "pagePath": "pages/more/more",
         "text": "更多",
         "iconPath": "./pages/imgs/lei.png",
         "selectedIconPath": "./pages/imgs/main.png"
